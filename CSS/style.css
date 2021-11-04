@@ -1,70 +1,80 @@
-                    .first-session {
-                        margin-left: 10% !important;
-                    }
-                    /* .label-one {
+                .first-session {
+                    margin-left: 10% !important;
+                }
+                /* .label-one {
     background-image: url("../Images/gray-abstract-wireframe-technology-background_53876-101941.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 } */
-                    
-                    .second-session {
-                        color: red
-                    }
-                    
-                    .third-session {
-                        color: #343a40!important;
-                    }
-                    
-                    .label-one {
-                        background: linear-gradient(93.56deg, #ebebeb 1.45%, #fbfbfb 98.01%)
-                    }
-                    
-                    .paul-one {
-                        width: 50px;
-                        height: 50px
-                    }
-                    
-                    .all-one {
-                        margin-left: 32% !important;
-                    }
-                    
-                    .neg-gas {
-                        width: 50px;
-                        height: 50px
-                    }
-                    
-                    .all-two {
-                        margin-left: 29%;
-                    }
-                    
-                    .all-sentence {
-                        margin-top: 10% !important;
-                        box-shadow: 0 2px 27px rgb(0 0 0 / 13%);
-                    }
-                    
-                    .vascon-sol {
-                        width: 50px;
-                        height: 50px
-                    }
-                    
-                    .third-vascon {
-                        margin-left: 32% !important;
-                    }
-                    
-                    .feed-back {
-                        color: #bc6a44 !important
-                    }
-                    
-                    hr {
-                        width: 60px !important;
-                        border: 1px solid black;
-                    }
-                    
+                
+                .second-session {
+                    color: red
+                }
+                
+                .third-session {
+                    color: #343a40!important;
+                }
+                
+                .label-one {
+                    background: linear-gradient(93.56deg, #ebebeb 1.45%, #fbfbfb 98.01%)
+                }
+                
+                .paul-one {
+                    width: 50px;
+                    height: 50px
+                }
+                
+                .all-one {
+                    margin-left: 32% !important;
+                }
+                
+                .neg-gas {
+                    width: 50px;
+                    height: 50px
+                }
+                
+                .all-two {
+                    margin-left: 29%;
+                }
+                
+                .all-sentence {
+                    margin-top: 10% !important;
+                    box-shadow: 0 2px 27px rgb(0 0 0 / 13%);
+                }
+                
+                .vascon-sol {
+                    width: 50px;
+                    height: 50px
+                }
+                
+                .third-vascon {
+                    margin-left: 32% !important;
+                }
+                
+                .feed-back {
+                    color: #bc6a44 !important
+                }
+                
+                hr {
+                    width: 60px !important;
+                    border: 1px solid black;
+                }
+                
+                .card {
+                    height: 32vh;
+                }
+                /* benefit session here*/
+                
+                .benefit-one {
+                    color: #bc6a44
+                }
+                
+                @media screen and (max-width:768px) {
                     .card {
-                        height: 60vh;
+                        height: 67%;
                     }
-                    /* benefit session here*/
-                    
-                    .benefit-one {
-                        color: #bc6a44
-                    }
+                }
+                /* .all-second {
+                    box-shadow: 0 2px 27px rgb(0 0 0 / 13%);
+                   
+                } */
